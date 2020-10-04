@@ -1,5 +1,5 @@
 # Desperado
-An android game where you play as a cowboy making your way through 3 different levels. We paid a special emphasis on clean code, readability and extendability for addition of future features.
+An android game where you play as a cowboy making your way through the wild west. We paid a special emphasis on clean code, readability and extendability for addition of future features.
 
 Credits to: Faaris, Niko, Alex, Kevin and Saqib
 
