@@ -4,7 +4,8 @@ An android game where you play as a cowboy making your way through the wild west
 Credits to: Faaris, Niko, Alex, Kevin and Saqib
 
 
-# Setup (Credits: Faaris Ali)
+# Setup # 
+### (Credits: Faaris Ali) ###
 Ensure that you have Android Studio, Android API 29 SDK, and a compatible phone or Android Virtual Device installed. I used the Pixel 3 with API 28 as my AVD (Android Virtual Device).
 
 To setup the project, go to Android Studio and on the welcome page, click Check out project from Version Control and paste this project's Git URL into the given prompt.
